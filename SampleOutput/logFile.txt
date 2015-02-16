@@ -1,0 +1,3656 @@
+=====================================================================
+
+Began Processing Files at:  Feb 16, 2015 11:06:57 AM
+
+=====================================================================
+
+Input File Directory:  C:\Users\tjv\workspace\SomaLogic\data\gtf_sample_files
+
+	File:  coordinates_to_annotate.txt
+
+**  Count of coordinates processed:  1807
+
+
+	File:  coordinates_to_annotate.txt.bak
+	File:  coordinates_to_annotate.txt.bak is unknown format.  File ignored.
+	File:  coordinates_to_annotate.txt.orig
+	File:  coordinates_to_annotate.txt.orig is unknown format.  File ignored.
+	File:  hg19_annotations.gtf
+	File:  hg19_annotations.gtf is gtf format.
+
+**  Total Count of gtf processed:  832927
+
+
+	File:  hg19_annotations.gtf.orig
+	File:  hg19_annotations.gtf.orig is unknown format.  File ignored.
+	File:  hg19_annotations.gtf.short
+	File:  hg19_annotations.gtf.short is unknown format.  File ignored.
+*********************************************************************************
+
+
+Processing Chromosome Map.
+Number of Introns found:  393775
+
+Number of Exons found:  439152
+
+>chr3 at location:  134196556
+
+>chr3 at location:  134204169
+
+No match found for: chr12 at location:  134204169
+
+>chr9 at location:  136333049
+
+>chr12 at location:  20704380
+
+>chr12 at location:  20704379
+
+No match found for: chr21 at location:  9827238
+
+No match found for: chr5 at location:  71146882
+
+>chr8 at location:  38283717
+
+>chr12 at location:  20704371
+
+>chr12 at location:  20704377
+
+No match found for: chr21 at location:  9827364
+
+>chr4 at location:  184083607
+
+>chr11 at location:  85195011
+
+>chr11 at location:  85195078
+
+>chr12 at location:  20704387
+
+No match found for: chr21 at location:  9827418
+
+>chr12 at location:  20704369
+
+>chr12 at location:  20704360
+
+No match found for: chr2 at location:  133012823
+
+No match found for: chr12 at location:  127650880
+
+>chr12 at location:  20704368
+
+>chr17 at location:  33478136
+
+>chr11 at location:  85195011
+
+>chr12 at location:  20704397
+
+No match found for: chr21 at location:  9827402
+
+>chr11 at location:  85195089
+
+No match found for: chr21 at location:  9827440
+
+No match found for: chrM at location:  2406
+
+>chr8 at location:  38271176
+
+>chr8 at location:  38275840
+
+>chr8 at location:  38285445
+
+No match found for: chr21 at location:  9827282
+
+>chr12 at location:  20704395
+
+>chr17 at location:  33478134
+
+>chr12 at location:  20704391
+
+No match found for: chr1 at location:  108113517
+
+No match found for: chr5 at location:  71146742
+
+>chr15 at location:  45003753
+
+>chr12 at location:  20704393
+
+No match found for: chr21 at location:  9827370
+
+No match found for: chrM at location:  2662
+
+No match found for: chr1 at location:  91852890
+
+>chr12 at location:  20704389
+
+No match found for: chr21 at location:  9827090
+
+>chr8 at location:  38271008
+
+>chr12 at location:  20704393
+
+No match found for: chr21 at location:  9827394
+
+No match found for: chr21 at location:  9827351
+
+>chr8 at location:  38283716
+
+No match found for: chr21 at location:  9827237
+
+>chr11 at location:  85195057
+
+No match found for: chr1 at location:  91852867
+
+No match found for: chrX at location:  108297787
+
+No match found for: chr21 at location:  9827238
+
+No match found for: chr21 at location:  9827109
+
+No match found for: chr1 at location:  91853025
+
+No match found for: chr5 at location:  71146742
+
+>chr8 at location:  38271232
+
+>chr17 at location:  33478126
+
+No match found for: chr1 at location:  91853055
+
+>chr12 at location:  20704397
+
+No match found for: chr21 at location:  9827219
+
+>chr11 at location:  85195057
+
+>chr8 at location:  70602352
+
+No match found for: chr1 at location:  91852783
+
+>chr11 at location:  85195041
+
+No match found for: chr1 at location:  91852912
+
+>chr12 at location:  20704387
+
+>chr12 at location:  20704400
+
+No match found for: chr1 at location:  91852951
+
+>chr11 at location:  85195013
+
+No match found for: chr21 at location:  9827234
+
+No match found for: chr21 at location:  9827359
+
+>chr12 at location:  20704410
+
+No match found for: chr21 at location:  9827389
+
+>chr11 at location:  85195019
+
+No match found for: chr2 at location:  230045522
+
+>chr12 at location:  20704416
+
+>chr15 at location:  45007637
+
+>chr8 at location:  38271187
+
+No match found for: chr21 at location:  9827233
+
+No match found for: chrM at location:  1381
+
+>chr15 at location:  45003752
+
+>chr12 at location:  20704379
+
+>chr12 at location:  20704381
+
+>chr11 at location:  85195061
+
+>chr11 at location:  15173779
+
+No match found for: chr21 at location:  9827457
+
+No match found for: chr21 at location:  9827371
+
+>chr11 at location:  62105438
+
+>chr11 at location:  85195064
+
+>chr17 at location:  33478139
+
+No match found for: chr21 at location:  9827089
+
+No match found for: chr2 at location:  230045512
+
+No match found for: chr9 at location:  79186793
+
+No match found for: chr21 at location:  9827377
+
+>chr12 at location:  20704378
+
+>chr8 at location:  70602355
+
+>chr20 at location:  5170867
+
+No match found for: chr2 at location:  133012817
+
+>chr12 at location:  20704393
+
+>chr8 at location:  38279404
+
+No match found for: chr1 at location:  91852934
+
+No match found for: chr1 at location:  52823538
+
+>chr15 at location:  45003745
+
+No match found for: chr1 at location:  91853069
+
+>chr8 at location:  38277075
+
+>chr17 at location:  33478134
+
+>chr17 at location:  33478120
+
+>chr12 at location:  20704375
+
+No match found for: chr5 at location:  71146883
+
+>chr17 at location:  33478130
+
+No match found for: chr21 at location:  9827376
+
+>chr17 at location:  33478122
+
+No match found for: chr21 at location:  9827232
+
+No match found for: chr1 at location:  91853059
+
+>chr17 at location:  33478120
+
+>chr6 at location:  134214432
+
+No match found for: chrX at location:  108297672
+
+>chr12 at location:  20704399
+
+>chr12 at location:  20704365
+
+No match found for: chr5 at location:  71146742
+
+>chr17 at location:  33478128
+
+>chr15 at location:  45003748
+
+No match found for: chr21 at location:  9827102
+
+>chr8 at location:  38271435
+
+>chr11 at location:  85195030
+
+No match found for: chr2 at location:  133012820
+
+>chr15 at location:  45003751
+
+No match found for: chr21 at location:  9827390
+
+No match found for: chr21 at location:  9827403
+
+>chr12 at location:  20704389
+
+>chr17 at location:  33478138
+
+No match found for: chr21 at location:  9827108
+
+>chr12 at location:  20704389
+
+>chr11 at location:  85195011
+
+>chr11 at location:  85195079
+
+No match found for: chr21 at location:  9827387
+
+No match found for: chr21 at location:  9827305
+
+No match found for: chr16 at location:  33963314
+
+No match found for: chr12 at location:  127650877
+
+No match found for: chr21 at location:  9827233
+
+>chr8 at location:  38271261
+
+>chr12 at location:  20704394
+
+No match found for: chr12 at location:  127650871
+
+>chr17 at location:  33478116
+
+>chr8 at location:  38282027
+
+No match found for: chrM at location:  2797
+
+No match found for: chr21 at location:  9827440
+
+>chr17 at location:  33478142
+
+>chr11 at location:  85195070
+
+>chr11 at location:  85195078
+
+>chr11 at location:  85195048
+
+>chr15 at location:  45003760
+
+No match found for: chr2 at location:  1643106
+
+No match found for: chr1 at location:  91853061
+
+>chr11 at location:  85195028
+
+No match found for: chr21 at location:  9827375
+
+No match found for: chr21 at location:  9827150
+
+No match found for: chr21 at location:  9827293
+
+No match found for: chr21 at location:  9827393
+
+>chr12 at location:  20704389
+
+No match found for: chr1 at location:  91852908
+
+>chr12 at location:  20704379
+
+>chr8 at location:  38277203
+
+No match found for: chr21 at location:  9827401
+
+No match found for: chr21 at location:  9827457
+
+No match found for: chr1 at location:  91852782
+
+>chr4 at location:  129208850
+
+>chr12 at location:  20704375
+
+>chr17 at location:  33478122
+
+>chr12 at location:  20704382
+
+No match found for: chr21 at location:  9827387
+
+>chr12 at location:  20704388
+
+No match found for: chr21 at location:  9827251
+
+No match found for: chr1 at location:  91852922
+
+No match found for: chr1 at location:  91852839
+
+No match found for: chr21 at location:  9827437
+
+>chrX at location:  100291962
+
+No match found for: chr21 at location:  9827376
+
+>chr11 at location:  85195011
+
+>chr11 at location:  85195011
+
+No match found for: chr2 at location:  230045546
+
+No match found for: chr2 at location:  230045533
+
+No match found for: chr21 at location:  9827355
+
+>chr12 at location:  20704379
+
+No match found for: chr21 at location:  9827139
+
+>chr11 at location:  85195067
+
+>chr12 at location:  20704364
+
+>chr8 at location:  38271435
+
+>chr12 at location:  20704379
+
+No match found for: chr21 at location:  9827372
+
+>chr11 at location:  85195012
+
+>chr11 at location:  85195139
+
+>chr11 at location:  64005980
+
+No match found for: chr21 at location:  9827288
+
+No match found for: chr2 at location:  230045513
+
+>chr12 at location:  20704414
+
+No match found for: chr5 at location:  71146836
+
+>chr12 at location:  20704376
+
+>chr15 at location:  45003749
+
+>chr15 at location:  45003771
+
+No match found for: chr1 at location:  91852955
+
+>chr9 at location:  116037996
+
+No match found for: chr21 at location:  9827419
+
+No match found for: chr2 at location:  133038129
+
+>chr12 at location:  20704383
+
+No match found for: chr21 at location:  9827434
+
+>chr12 at location:  20704374
+
+>chr8 at location:  38283750
+
+>chr12 at location:  20704380
+
+No match found for: chr2 at location:  56420512
+
+No match found for: chr21 at location:  9827468
+
+No match found for: chr21 at location:  9827377
+
+>chr17 at location:  76136936
+
+No match found for: chr21 at location:  9827451
+
+No match found for: chr21 at location:  9827046
+
+No match found for: chr21 at location:  9827232
+
+No match found for: chr12 at location:  127650613
+
+>chr9 at location:  140243592
+
+No match found for: chrX at location:  108297723
+
+>chr16 at location:  57286434
+
+No match found for: chr21 at location:  9827399
+
+No match found for: chr2 at location:  230045519
+
+>chr8 at location:  38279411
+
+>chr12 at location:  20704411
+
+No match found for: chr21 at location:  9827423
+
+No match found for: chr21 at location:  9827395
+
+>chr11 at location:  85195011
+
+No match found for: chrM at location:  2488
+
+No match found for: chr1 at location:  91853042
+
+>chr17 at location:  33478111
+
+No match found for: chr2 at location:  230045514
+
+>chr15 at location:  45003729
+
+>chr12 at location:  20704406
+
+No match found for: chr21 at location:  9827457
+
+No match found for: chr1 at location:  91852934
+
+>chr12 at location:  20704421
+
+No match found for: chr1 at location:  91852909
+
+No match found for: chr21 at location:  9827370
+
+No match found for: chr12 at location:  127650600
+
+>chr12 at location:  20704410
+
+No match found for: chr21 at location:  9827292
+
+No match found for: chr21 at location:  9827253
+
+No match found for: chrM at location:  2665
+
+>chr11 at location:  85195077
+
+No match found for: chr2 at location:  230045498
+
+No match found for: chr12 at location:  127650492
+
+>chr11 at location:  85195059
+
+No match found for: chr21 at location:  9827436
+
+>chr17 at location:  33478136
+
+No match found for: chr2 at location:  230045488
+
+>chr17 at location:  33478133
+
+>chr12 at location:  20704391
+
+No match found for: chrM at location:  12554
+
+>chr15 at location:  45003761
+
+No match found for: chr21 at location:  9827242
+
+No match found for: chr1 at location:  91852783
+
+>chr12 at location:  20704388
+
+>chr15 at location:  45003756
+
+>chr15 at location:  45003762
+
+>chr11 at location:  85195064
+
+No match found for: chr21 at location:  9827350
+
+No match found for: chr21 at location:  9827195
+
+No match found for: chr21 at location:  9827378
+
+No match found for: chr21 at location:  9827414
+
+>chr12 at location:  20704401
+
+No match found for: chrX at location:  108297769
+
+No match found for: chr2 at location:  230045517
+
+No match found for: chr21 at location:  9827391
+
+No match found for: chr21 at location:  9827406
+
+No match found for: chr21 at location:  9827459
+
+>chr12 at location:  20704382
+
+No match found for: chr16 at location:  33963314
+
+No match found for: chr21 at location:  9827288
+
+No match found for: chr21 at location:  9827391
+
+>chr15 at location:  45007627
+
+No match found for: chr21 at location:  9827086
+
+No match found for: chr21 at location:  9827088
+
+No match found for: chrX at location:  108297669
+
+>chr15 at location:  45003767
+
+>chr8 at location:  38270931
+
+No match found for: chr21 at location:  9827389
+
+No match found for: chr21 at location:  9827391
+
+No match found for: chr21 at location:  9827346
+
+>chr17 at location:  33478142
+
+>chr16 at location:  1401694
+
+>chr10 at location:  28908608
+
+>chr12 at location:  20704384
+
+No match found for: chr21 at location:  9827396
+
+No match found for: chr5 at location:  71146863
+
+No match found for: chr21 at location:  9827368
+
+>chr15 at location:  45007633
+
+No match found for: chr21 at location:  9827350
+
+>chr12 at location:  20704388
+
+No match found for: chr21 at location:  9827469
+
+>chr12 at location:  20704386
+
+>chr17 at location:  33478147
+
+>chr12 at location:  20704401
+
+>chr6 at location:  3287100
+
+No match found for: chrX at location:  108297796
+
+>chr11 at location:  85195011
+
+No match found for: chr2 at location:  230045519
+
+>chr11 at location:  85195066
+
+>chr11 at location:  85195073
+
+No match found for: chr21 at location:  9827233
+
+No match found for: chr21 at location:  9827437
+
+>chr12 at location:  20704364
+
+>chr17 at location:  33478129
+
+No match found for: chr21 at location:  9827251
+
+>chr17 at location:  33478127
+
+No match found for: chr21 at location:  9827104
+
+>chr12 at location:  20704389
+
+No match found for: chr16 at location:  33963884
+
+>chr17 at location:  33478142
+
+>chr12 at location:  20704387
+
+>chr11 at location:  85195011
+
+>chr11 at location:  85195011
+
+>chr12 at location:  20704372
+
+No match found for: chr5 at location:  71146855
+
+>chr8 at location:  38282063
+
+No match found for: chr1 at location:  91852886
+
+>chr11 at location:  85195011
+
+>chr15 at location:  45007621
+
+>chr12 at location:  20704387
+
+>chr12 at location:  20704364
+
+>chr12 at location:  20704372
+
+No match found for: chr5 at location:  71146842
+
+>chr16 at location:  67576634
+
+No match found for: chr21 at location:  9827370
+
+>chr12 at location:  20704374
+
+>chr12 at location:  20704422
+
+>chr12 at location:  20704385
+
+>chr12 at location:  20704406
+
+>chr11 at location:  85195068
+
+No match found for: chr21 at location:  9827392
+
+>chr12 at location:  20704361
+
+>chr12 at location:  20704406
+
+>chr8 at location:  38277205
+
+No match found for: chr1 at location:  91852890
+
+No match found for: chr21 at location:  9827213
+
+>chr17 at location:  73497927
+
+No match found for: chr1 at location:  91853052
+
+No match found for: chr21 at location:  9827255
+
+>chr12 at location:  20704380
+
+>chr12 at location:  20704410
+
+>chr15 at location:  45007621
+
+>chr15 at location:  45003757
+
+>chr12 at location:  20704387
+
+>chr6 at location:  20976188
+
+No match found for: chr21 at location:  9827433
+
+>chr12 at location:  20704368
+
+>chr12 at location:  20704393
+
+>chr12 at location:  20704368
+
+>chr11 at location:  85195016
+
+>chr12 at location:  20704386
+
+>chr4 at location:  120214961
+
+No match found for: chr21 at location:  9827391
+
+>chr12 at location:  20704377
+
+>chr12 at location:  20704380
+
+>chr12 at location:  20704374
+
+No match found for: chr21 at location:  9827425
+
+>chr12 at location:  20704389
+
+No match found for: chr12 at location:  127650875
+
+>chr8 at location:  70602356
+
+>chr12 at location:  20704401
+
+>chr8 at location:  38279315
+
+No match found for: chr21 at location:  9827366
+
+>chr12 at location:  20704383
+
+>chr12 at location:  20704414
+
+>chr19 at location:  48651342
+
+No match found for: chr21 at location:  9827370
+
+No match found for: chr21 at location:  9827370
+
+No match found for: chr21 at location:  9827200
+
+No match found for: chr21 at location:  9827369
+
+>chr12 at location:  20704406
+
+No match found for: chr5 at location:  71146742
+
+>chr8 at location:  70602349
+
+No match found for: chr21 at location:  9827479
+
+>chr12 at location:  20704400
+
+>chr11 at location:  85195011
+
+No match found for: chr21 at location:  9827397
+
+No match found for: chr2 at location:  230045488
+
+>chr12 at location:  20704406
+
+No match found for: chr5 at location:  71146742
+
+>chr11 at location:  85195069
+
+No match found for: chr21 at location:  9827253
+
+>chr17 at location:  33478125
+
+No match found for: chr2 at location:  230045547
+
+>chr17 at location:  33478142
+
+>chr12 at location:  20704406
+
+>chr17 at location:  33478149
+
+>chr15 at location:  45007621
+
+>chr12 at location:  20704372
+
+No match found for: chr21 at location:  9827420
+
+>chr12 at location:  20704392
+
+>chr12 at location:  20704387
+
+>chr15 at location:  45003749
+
+>chr12 at location:  20704388
+
+No match found for: chr1 at location:  91852797
+
+No match found for: chr1 at location:  91852889
+
+No match found for: chr2 at location:  230045519
+
+No match found for: chr2 at location:  133012722
+
+>chr4 at location:  151936624
+
+>chr11 at location:  85195057
+
+>chr12 at location:  20704407
+
+>chr11 at location:  85195026
+
+No match found for: chr21 at location:  9827129
+
+>chr12 at location:  20704398
+
+No match found for: chr21 at location:  9827398
+
+>chr12 at location:  20704397
+
+>chr11 at location:  85195069
+
+>chr3 at location:  57994244
+
+>chr8 at location:  38283724
+
+No match found for: chr21 at location:  9827394
+
+No match found for: chr12 at location:  127650491
+
+No match found for: chr21 at location:  9827377
+
+>chr11 at location:  85195024
+
+>chr12 at location:  20704383
+
+>chr12 at location:  20704374
+
+No match found for: chr1 at location:  91852954
+
+No match found for: chr21 at location:  9827206
+
+No match found for: chr21 at location:  9827078
+
+>chr8 at location:  38275840
+
+>chr12 at location:  20704360
+
+No match found for: chrM at location:  3117
+
+>chr12 at location:  20704373
+
+No match found for: chr2 at location:  230045544
+
+>chr14 at location:  20811440
+
+>chr12 at location:  20704392
+
+>chr11 at location:  85195014
+
+No match found for: chr5 at location:  71146742
+
+No match found for: chr21 at location:  9827414
+
+>chr15 at location:  45003765
+
+No match found for: chr21 at location:  9827441
+
+No match found for: chr1 at location:  160184531
+
+>chr8 at location:  38274869
+
+No match found for: chr21 at location:  9827102
+
+>chr11 at location:  85195078
+
+>chr17 at location:  33478142
+
+>chr12 at location:  20704407
+
+No match found for: chrX at location:  108297759
+
+No match found for: chr2 at location:  133012816
+
+>chr12 at location:  20704378
+
+>chr17 at location:  33478137
+
+No match found for: chr21 at location:  9827381
+
+>chr11 at location:  85195054
+
+No match found for: chr21 at location:  9827359
+
+No match found for: chr21 at location:  9827245
+
+No match found for: chr21 at location:  9827431
+
+>chr11 at location:  85195067
+
+>chr4 at location:  1807081
+
+No match found for: chr21 at location:  9827425
+
+No match found for: chr21 at location:  9827380
+
+No match found for: chr1 at location:  91852960
+
+>chr5 at location:  86633687
+
+No match found for: chr21 at location:  9827403
+
+No match found for: chr21 at location:  9827350
+
+>chr16 at location:  30732577
+
+No match found for: chrM at location:  2716
+
+No match found for: chr21 at location:  9827241
+
+>chr3 at location:  49160905
+
+No match found for: chr2 at location:  230045512
+
+>chr12 at location:  20704403
+
+>chr12 at location:  20704389
+
+No match found for: chr1 at location:  91852955
+
+No match found for: chr21 at location:  9827377
+
+No match found for: chr21 at location:  9827470
+
+>chr17 at location:  33478121
+
+No match found for: chr2 at location:  230045529
+
+>chr19 at location:  50002797
+
+>chr15 at location:  45007638
+
+>chr12 at location:  20704362
+
+No match found for: chr21 at location:  9827371
+
+>chr17 at location:  33478136
+
+No match found for: chr21 at location:  9827320
+
+>chr17 at location:  33478123
+
+No match found for: chr21 at location:  9827414
+
+No match found for: chr21 at location:  9827390
+
+>chr11 at location:  85195011
+
+>chr12 at location:  20704390
+
+No match found for: chr21 at location:  9827151
+
+>chr11 at location:  85195064
+
+>chr12 at location:  20704389
+
+>chr3 at location:  100551108
+
+>chr15 at location:  45007621
+
+>chr15 at location:  45007621
+
+No match found for: chr21 at location:  9827379
+
+>chr12 at location:  20704382
+
+>chr11 at location:  85195011
+
+No match found for: chr21 at location:  9827377
+
+>chr12 at location:  20704388
+
+>chr15 at location:  45009854
+
+No match found for: chr5 at location:  71146840
+
+No match found for: chr1 at location:  91852783
+
+No match found for: chr2 at location:  230045488
+
+No match found for: chr21 at location:  9827468
+
+>chr15 at location:  45003740
+
+>chr15 at location:  45003752
+
+>chr11 at location:  85195011
+
+>chr11 at location:  85195127
+
+No match found for: chr1 at location:  91852903
+
+>chr14 at location:  20811454
+
+No match found for: chr1 at location:  91852783
+
+>chr12 at location:  20704379
+
+No match found for: chr16 at location:  33963311
+
+No match found for: chr21 at location:  9827380
+
+No match found for: chr21 at location:  9827373
+
+>chr12 at location:  20704362
+
+No match found for: chr21 at location:  9827321
+
+No match found for: chr21 at location:  9827428
+
+No match found for: chr21 at location:  9827294
+
+No match found for: chr21 at location:  9827390
+
+No match found for: chr21 at location:  9827364
+
+No match found for: chr1 at location:  91852935
+
+>chr12 at location:  20704388
+
+No match found for: chr19 at location:  24184089
+
+>chr11 at location:  85195011
+
+No match found for: chr21 at location:  9827227
+
+>chr17 at location:  77020342
+
+>chr4 at location:  1808609
+
+>chr12 at location:  20704387
+
+>chr13 at location:  115028288
+
+>chr8 at location:  38283716
+
+No match found for: chr16 at location:  33963325
+
+>chr17 at location:  33478117
+
+>chr10 at location:  88851606
+
+>chr12 at location:  20704404
+
+No match found for: chr2 at location:  230045548
+
+No match found for: chr21 at location:  9827235
+
+No match found for: chr1 at location:  108113518
+
+>chr12 at location:  20704372
+
+No match found for: chr21 at location:  9827357
+
+>chr17 at location:  33478119
+
+No match found for: chr21 at location:  9827364
+
+>chr12 at location:  20704383
+
+No match found for: chr2 at location:  230045490
+
+No match found for: chrM at location:  3068
+
+>chr17 at location:  39846120
+
+No match found for: chr2 at location:  133012274
+
+>chr8 at location:  38271436
+
+>chr15 at location:  45003761
+
+>chr11 at location:  85195133
+
+No match found for: chr2 at location:  230045544
+
+No match found for: chr21 at location:  9827268
+
+No match found for: chr2 at location:  230045488
+
+No match found for: chr21 at location:  9827376
+
+>chr11 at location:  85195051
+
+No match found for: chrY at location:  10037805
+
+No match found for: chr21 at location:  9827288
+
+No match found for: chr21 at location:  9827430
+
+>chr15 at location:  45007621
+
+>chr12 at location:  20704407
+
+>chr12 at location:  20704408
+
+No match found for: chr21 at location:  9827388
+
+>chr8 at location:  38277050
+
+>chr20 at location:  44533579
+
+No match found for: chr2 at location:  230045519
+
+>chr12 at location:  20704363
+
+>chr12 at location:  20704411
+
+No match found for: chrY at location:  10036395
+
+>chr12 at location:  20704383
+
+>chr22 at location:  40350216
+
+No match found for: chr21 at location:  9827420
+
+>chr10 at location:  123357484
+
+>chr8 at location:  38277203
+
+No match found for: chr2 at location:  133012274
+
+>chr12 at location:  20704362
+
+>chr8 at location:  38277203
+
+No match found for: chr2 at location:  133012815
+
+No match found for: chr21 at location:  9827103
+
+>chr12 at location:  20704361
+
+No match found for: chrX at location:  46299773
+
+No match found for: chr2 at location:  133012722
+
+No match found for: chr2 at location:  230045488
+
+No match found for: chr21 at location:  9827404
+
+>chr12 at location:  20704369
+
+No match found for: chr2 at location:  133012819
+
+>chr4 at location:  1807094
+
+>chr12 at location:  20704373
+
+>chr11 at location:  85195152
+
+No match found for: chr21 at location:  9827396
+
+No match found for: chr1 at location:  91852870
+
+No match found for: chr2 at location:  133012817
+
+No match found for: chr16 at location:  33963333
+
+No match found for: chr16 at location:  33963333
+
+No match found for: chr21 at location:  9827232
+
+No match found for: chr21 at location:  9827394
+
+>chr12 at location:  20704397
+
+No match found for: chr21 at location:  9827390
+
+>chr12 at location:  20704393
+
+No match found for: chr5 at location:  71146862
+
+>chr17 at location:  33478132
+
+No match found for: chrX at location:  108297757
+
+>chr17 at location:  33478142
+
+No match found for: chr2 at location:  230045489
+
+No match found for: chr21 at location:  9827391
+
+>chr12 at location:  20704381
+
+No match found for: chr21 at location:  9827364
+
+>chr12 at location:  20704364
+
+No match found for: chr21 at location:  9827103
+
+No match found for: chr1 at location:  91852973
+
+No match found for: chr21 at location:  9827101
+
+No match found for: chr21 at location:  9827288
+
+>chr12 at location:  20704372
+
+No match found for: chr21 at location:  9827046
+
+No match found for: chr1 at location:  108113516
+
+No match found for: chr21 at location:  9827370
+
+>chr12 at location:  20704386
+
+>chr12 at location:  20704360
+
+>chr17 at location:  33478288
+
+>chr12 at location:  20704380
+
+>chr8 at location:  38275826
+
+>chr12 at location:  20704357
+
+No match found for: chr21 at location:  9827361
+
+No match found for: chr5 at location:  71146742
+
+>chr8 at location:  38275842
+
+No match found for: chr21 at location:  9827317
+
+>chr12 at location:  20704415
+
+No match found for: chr21 at location:  9827230
+
+No match found for: chr21 at location:  9827428
+
+No match found for: chr21 at location:  9827391
+
+No match found for: chr1 at location:  91852934
+
+>chr12 at location:  20704394
+
+>chr12 at location:  20704363
+
+>chr12 at location:  20704399
+
+>chr12 at location:  20704382
+
+No match found for: chr16 at location:  33963880
+
+>chr4 at location:  1209783
+
+No match found for: chr21 at location:  9827391
+
+No match found for: chr9 at location:  79186793
+
+>chr12 at location:  20704373
+
+No match found for: chr2 at location:  133012820
+
+No match found for: chr21 at location:  9827290
+
+>chr11 at location:  85195069
+
+No match found for: chr21 at location:  9827350
+
+No match found for: chr5 at location:  71146753
+
+>chr15 at location:  45003762
+
+>chr15 at location:  45003772
+
+>chr11 at location:  85195048
+
+No match found for: chr21 at location:  9827434
+
+>chr12 at location:  20704369
+
+No match found for: chr1 at location:  91852936
+
+>chr11 at location:  85195011
+
+>chr12 at location:  20704389
+
+>chr11 at location:  85195011
+
+>chr11 at location:  85195028
+
+>chr8 at location:  29032630
+
+No match found for: chr21 at location:  9827414
+
+>chr8 at location:  38275399
+
+No match found for: chr21 at location:  9827214
+
+No match found for: chrM at location:  2750
+
+No match found for: chr21 at location:  9827391
+
+No match found for: chr21 at location:  9827439
+
+No match found for: chr21 at location:  9827292
+
+>chr12 at location:  20704378
+
+No match found for: chr21 at location:  9827406
+
+>chr12 at location:  20704407
+
+No match found for: chrM at location:  2391
+
+No match found for: chr21 at location:  9827387
+
+No match found for: chr2 at location:  230045525
+
+No match found for: chr21 at location:  9827369
+
+No match found for: chr2 at location:  230045488
+
+No match found for: chr1 at location:  91852886
+
+No match found for: chr21 at location:  9827391
+
+>chr12 at location:  20704382
+
+No match found for: chrX at location:  108297748
+
+No match found for: chr21 at location:  9827350
+
+No match found for: chr2 at location:  133012274
+
+>chr17 at location:  33478131
+
+No match found for: chr12 at location:  34372631
+
+No match found for: chr21 at location:  9827389
+
+>chr17 at location:  33478134
+
+>chr12 at location:  20704389
+
+No match found for: chr16 at location:  33963882
+
+No match found for: chr21 at location:  9827291
+
+>chr12 at location:  20704377
+
+>chr12 at location:  20704380
+
+>chr17 at location:  33478121
+
+No match found for: chr21 at location:  9827288
+
+No match found for: chr21 at location:  9827426
+
+>chr17 at location:  33478294
+
+No match found for: chr21 at location:  9827425
+
+>chr12 at location:  20704386
+
+No match found for: chr21 at location:  9827391
+
+>chr8 at location:  38275388
+
+No match found for: chr21 at location:  9827391
+
+No match found for: chrY at location:  10036401
+
+>chr12 at location:  20704414
+
+>chr11 at location:  85195052
+
+>chr12 at location:  20704374
+
+No match found for: chr1 at location:  91852911
+
+>chr12 at location:  20704374
+
+No match found for: chr21 at location:  9827387
+
+No match found for: chr5 at location:  71146858
+
+No match found for: chr2 at location:  133012274
+
+>chr12 at location:  20704400
+
+>chr12 at location:  20704406
+
+No match found for: chr21 at location:  9827103
+
+>chr11 at location:  85195026
+
+No match found for: chr21 at location:  9827294
+
+No match found for: chr2 at location:  230045537
+
+>chr17 at location:  33478147
+
+>chr8 at location:  38271201
+
+>chr12 at location:  57906619
+
+>chr15 at location:  45003767
+
+No match found for: chr2 at location:  230045517
+
+>chr12 at location:  20704422
+
+No match found for: chr1 at location:  91852948
+
+No match found for: chr21 at location:  9827433
+
+>chr11 at location:  85195011
+
+No match found for: chr1 at location:  91853075
+
+>chr12 at location:  20704363
+
+No match found for: chr1 at location:  91852918
+
+No match found for: chr1 at location:  33276612
+
+No match found for: chr21 at location:  9827390
+
+>chr17 at location:  33478131
+
+>chr17 at location:  33478120
+
+>chr15 at location:  45007621
+
+No match found for: chr21 at location:  9827376
+
+No match found for: chr12 at location:  127650604
+
+No match found for: chrM at location:  2249
+
+No match found for: chr2 at location:  230045524
+
+>chr11 at location:  85195056
+
+No match found for: chr21 at location:  9827371
+
+>chr11 at location:  85195076
+
+>chr12 at location:  20704365
+
+No match found for: chr21 at location:  9827310
+
+No match found for: chr21 at location:  9827390
+
+>chr12 at location:  20704384
+
+No match found for: chrM at location:  1398
+
+>chr12 at location:  20704364
+
+>chr15 at location:  45007621
+
+>chr4 at location:  1808846
+
+>chr8 at location:  70602352
+
+>chr8 at location:  70602346
+
+>chr8 at location:  70602345
+
+>chr12 at location:  20704387
+
+>chr12 at location:  20704385
+
+No match found for: chr1 at location:  27930262
+
+>chr11 at location:  85195064
+
+>chr15 at location:  45007621
+
+No match found for: chr5 at location:  71146841
+
+No match found for: chr16 at location:  33963333
+
+>chr15 at location:  45003756
+
+No match found for: chr16 at location:  33963336
+
+>chr11 at location:  85195011
+
+No match found for: chr21 at location:  9827454
+
+No match found for: chr21 at location:  9827350
+
+>chr15 at location:  45003717
+
+>chr12 at location:  20704360
+
+No match found for: chr16 at location:  33963232
+
+No match found for: chr21 at location:  9827391
+
+No match found for: chr21 at location:  9827370
+
+>chr11 at location:  85195057
+
+>chr12 at location:  20704400
+
+No match found for: chr1 at location:  91852925
+
+>chr8 at location:  38279385
+
+>chr11 at location:  85195166
+
+No match found for: chr21 at location:  9827247
+
+>chr17 at location:  33478140
+
+No match found for: chr12 at location:  127650878
+
+>chr17 at location:  33478149
+
+>chr8 at location:  54871239
+
+>chr11 at location:  85195069
+
+>chr11 at location:  85195073
+
+No match found for: chr21 at location:  9827442
+
+No match found for: chr1 at location:  91853075
+
+No match found for: chr21 at location:  9827109
+
+>chr17 at location:  33478111
+
+No match found for: chr21 at location:  9827087
+
+>chr8 at location:  38275840
+
+>chr12 at location:  20704404
+
+>chr12 at location:  20704389
+
+>chr12 at location:  20704395
+
+>chr15 at location:  45007621
+
+No match found for: chr21 at location:  9827398
+
+No match found for: chrX at location:  46299785
+
+No match found for: chrX at location:  108297745
+
+No match found for: chr21 at location:  9827430
+
+>chr12 at location:  20704384
+
+No match found for: chr21 at location:  9827413
+
+>chr12 at location:  20704359
+
+No match found for: chr21 at location:  9827391
+
+No match found for: chr16 at location:  33963877
+
+>chr12 at location:  20704413
+
+No match found for: chr16 at location:  33963879
+
+>chr11 at location:  85195072
+
+>chr12 at location:  20704375
+
+>chr12 at location:  20704393
+
+No match found for: chr21 at location:  9827458
+
+>chr11 at location:  85195048
+
+No match found for: chr16 at location:  33963321
+
+>chr22 at location:  20779729
+
+No match found for: chr2 at location:  230045488
+
+No match found for: chr21 at location:  9827029
+
+No match found for: chrX at location:  108297790
+
+No match found for: chr1 at location:  91852822
+
+No match found for: chr21 at location:  9827404
+
+No match found for: chr21 at location:  9827301
+
+>chr17 at location:  33478117
+
+>chr11 at location:  85195081
+
+>chr12 at location:  20704375
+
+No match found for: chr21 at location:  9827402
+
+>chr12 at location:  20704388
+
+>chr12 at location:  20704413
+
+No match found for: chrX at location:  108297763
+
+No match found for: chr21 at location:  9827434
+
+>chr12 at location:  20704403
+
+No match found for: chr21 at location:  9827414
+
+No match found for: chrX at location:  108297710
+
+No match found for: chr1 at location:  91852835
+
+No match found for: chr1 at location:  91852947
+
+No match found for: chr21 at location:  9827247
+
+No match found for: chr5 at location:  71146860
+
+>chr15 at location:  45003762
+
+No match found for: chr1 at location:  91852871
+
+>chr12 at location:  20704387
+
+No match found for: chr21 at location:  9827118
+
+No match found for: chr1 at location:  91852836
+
+No match found for: chr1 at location:  91852857
+
+>chr4 at location:  41656291
+
+>chr10 at location:  123239477
+
+No match found for: chrM at location:  15519
+
+>chr15 at location:  45007637
+
+No match found for: chr5 at location:  71146742
+
+>chr12 at location:  20704358
+
+No match found for: chr21 at location:  9827351
+
+No match found for: chr21 at location:  9827397
+
+No match found for: chr21 at location:  9827391
+
+>chr14 at location:  92595578
+
+No match found for: chr21 at location:  9827364
+
+>chr11 at location:  85195011
+
+>chr11 at location:  85195011
+
+>chr8 at location:  38277080
+
+>chr12 at location:  20704375
+
+No match found for: chr21 at location:  9827373
+
+>chr12 at location:  20704378
+
+>chr17 at location:  33478294
+
+>chr14 at location:  69343878
+
+>chr12 at location:  20704418
+
+No match found for: chr21 at location:  9827391
+
+>chr8 at location:  38271201
+
+No match found for: chr2 at location:  230045521
+
+>chr15 at location:  45003753
+
+>chr12 at location:  6646302
+
+No match found for: chrX at location:  108297790
+
+No match found for: chr21 at location:  9827387
+
+>chr15 at location:  45003746
+
+No match found for: chrY at location:  10037801
+
+No match found for: chrX at location:  108297719
+
+No match found for: chr21 at location:  9827312
+
+>chr11 at location:  85195077
+
+>chr11 at location:  85195045
+
+No match found for: chr21 at location:  9827283
+
+No match found for: chr21 at location:  9827457
+
+No match found for: chr21 at location:  9827438
+
+No match found for: chr21 at location:  9827398
+
+No match found for: chr1 at location:  91852943
+
+>chr12 at location:  20704416
+
+>chr17 at location:  33478142
+
+>chr12 at location:  20704372
+
+>chr15 at location:  45007627
+
+>chr11 at location:  85195137
+
+>chr11 at location:  85195048
+
+>chr12 at location:  20704373
+
+>chr11 at location:  85195072
+
+No match found for: chr21 at location:  9827457
+
+No match found for: chr2 at location:  230045514
+
+No match found for: chr2 at location:  133012823
+
+>chr15 at location:  45003749
+
+>chr12 at location:  20704363
+
+>chr11 at location:  85195011
+
+No match found for: chr21 at location:  9827321
+
+>chr21 at location:  28210005
+
+>chr12 at location:  20704388
+
+>chr12 at location:  20704394
+
+>chr8 at location:  38283716
+
+>chr8 at location:  38275388
+
+No match found for: chr21 at location:  9827362
+
+No match found for: chr5 at location:  71146742
+
+>chr11 at location:  85195011
+
+No match found for: chr21 at location:  9827292
+
+>chr12 at location:  20704361
+
+No match found for: chr21 at location:  9827407
+
+>chr12 at location:  20704389
+
+No match found for: chr21 at location:  9827403
+
+>chr12 at location:  20704381
+
+>chr12 at location:  20704364
+
+>chr12 at location:  20704383
+
+>chr11 at location:  85195011
+
+>chr15 at location:  45003759
+
+>chr12 at location:  20704415
+
+>chr14 at location:  20811443
+
+>chr12 at location:  20704400
+
+>chr8 at location:  38283716
+
+>chr11 at location:  85195072
+
+No match found for: chr21 at location:  9827304
+
+No match found for: chr1 at location:  91853038
+
+No match found for: chr5 at location:  71146742
+
+>chr12 at location:  20704389
+
+>chr12 at location:  20704379
+
+>chr15 at location:  45003749
+
+No match found for: chr5 at location:  71146742
+
+>chr12 at location:  20704388
+
+>chr12 at location:  20704388
+
+No match found for: chr2 at location:  230045498
+
+No match found for: chr1 at location:  91852950
+
+No match found for: chr21 at location:  9827244
+
+No match found for: chr21 at location:  9827359
+
+>chr4 at location:  1209806
+
+>chr8 at location:  38271446
+
+No match found for: chrX at location:  108297788
+
+No match found for: chr21 at location:  9827438
+
+>chr6 at location:  42023317
+
+No match found for: chr21 at location:  9827386
+
+No match found for: chr21 at location:  9827249
+
+>chr17 at location:  33478112
+
+>chr17 at location:  33478138
+
+>chr12 at location:  20704383
+
+>chr17 at location:  33478129
+
+No match found for: chr21 at location:  9827357
+
+No match found for: chr21 at location:  9827431
+
+>chr11 at location:  85195011
+
+>chr11 at location:  85195024
+
+No match found for: chrM at location:  3127
+
+>chr17 at location:  33478132
+
+No match found for: chr1 at location:  91852934
+
+>chr15 at location:  45007621
+
+No match found for: chr21 at location:  9827369
+
+No match found for: chr21 at location:  9827391
+
+No match found for: chr21 at location:  9827391
+
+>chr11 at location:  85195043
+
+No match found for: chr21 at location:  9827100
+
+>chr12 at location:  20704396
+
+No match found for: chr21 at location:  9827391
+
+>chr12 at location:  20704391
+
+No match found for: chr16 at location:  33963320
+
+>chr12 at location:  20704385
+
+No match found for: chr2 at location:  230045488
+
+No match found for: chr21 at location:  35767585
+
+>chr15 at location:  45007621
+
+>chr12 at location:  20704377
+
+No match found for: chr5 at location:  71146845
+
+>chr12 at location:  20704400
+
+>chr12 at location:  20704392
+
+No match found for: chr21 at location:  9827103
+
+>chr8 at location:  38314874
+
+>chr12 at location:  20704388
+
+No match found for: chr21 at location:  9827087
+
+>chr8 at location:  38277208
+
+>chr12 at location:  20704393
+
+>chr12 at location:  20704388
+
+No match found for: chr21 at location:  9827301
+
+No match found for: chr21 at location:  9827439
+
+No match found for: chr5 at location:  71146742
+
+No match found for: chr21 at location:  9827124
+
+>chr12 at location:  20704405
+
+>chr12 at location:  9094462
+
+No match found for: chr16 at location:  33963881
+
+>chr12 at location:  20704374
+
+>chr7 at location:  97920444
+
+No match found for: chr21 at location:  9827233
+
+>chr12 at location:  20704386
+
+No match found for: chr2 at location:  133039138
+
+No match found for: chr2 at location:  133012818
+
+>chr11 at location:  85195011
+
+>chr12 at location:  20704388
+
+>chr8 at location:  38283670
+
+No match found for: chr21 at location:  9827398
+
+>chr12 at location:  20704389
+
+>chr17 at location:  33478125
+
+No match found for: chr21 at location:  9827414
+
+No match found for: chr5 at location:  71146864
+
+No match found for: chr1 at location:  91852935
+
+>chr17 at location:  33478136
+
+>chr12 at location:  20704391
+
+>chr12 at location:  20704381
+
+No match found for: chr21 at location:  9827425
+
+No match found for: chrM at location:  981
+
+No match found for: chr21 at location:  9827427
+
+No match found for: chr21 at location:  9827355
+
+>chr11 at location:  128785132
+
+No match found for: chrX at location:  108297697
+
+No match found for: chrM at location:  11131
+
+>chr15 at location:  45007621
+
+>chr12 at location:  20704389
+
+No match found for: chr2 at location:  230045488
+
+>chr12 at location:  20704410
+
+>chr12 at location:  20704366
+
+>chr12 at location:  20704387
+
+>chr17 at location:  33478130
+
+No match found for: chrM at location:  699
+
+>chr12 at location:  6646318
+
+No match found for: chr21 at location:  9827098
+
+No match found for: chr21 at location:  9827304
+
+No match found for: chr21 at location:  9827437
+
+>chr12 at location:  20704395
+
+No match found for: chr12 at location:  127650874
+
+No match found for: chr2 at location:  230045521
+
+>chr12 at location:  20704392
+
+>chr7 at location:  107401268
+
+No match found for: chr2 at location:  230045488
+
+>chr17 at location:  33478126
+
+No match found for: chr21 at location:  9827362
+
+No match found for: chr16 at location:  33963331
+
+No match found for: chr1 at location:  91852934
+
+No match found for: chr1 at location:  62393432
+
+No match found for: chr2 at location:  133039138
+
+No match found for: chr21 at location:  9827297
+
+>chr12 at location:  20704411
+
+>chr12 at location:  20704377
+
+>chrX at location:  120181935
+
+No match found for: chr21 at location:  9827321
+
+>chr11 at location:  85195052
+
+>chr12 at location:  20704403
+
+No match found for: chr21 at location:  9827416
+
+No match found for: chr21 at location:  9827387
+
+No match found for: chr1 at location:  91852933
+
+>chr15 at location:  45003762
+
+>chr17 at location:  33478140
+
+>chr12 at location:  20704365
+
+No match found for: chr21 at location:  9827445
+
+>chr8 at location:  70602349
+
+No match found for: chr1 at location:  91853027
+
+No match found for: chr12 at location:  127650871
+
+>chr12 at location:  20704375
+
+No match found for: chr1 at location:  91852956
+
+No match found for: chr6 at location:  116568213
+
+>chr11 at location:  85195089
+
+>chr6 at location:  35428762
+
+No match found for: chr2 at location:  230045529
+
+>chr11 at location:  85195011
+
+>chr11 at location:  71724643
+
+>chr12 at location:  20704397
+
+>chr12 at location:  20704414
+
+>chr12 at location:  20704368
+
+No match found for: chr1 at location:  91853057
+
+>chr17 at location:  33478125
+
+No match found for: chr2 at location:  230045533
+
+No match found for: chrX at location:  108297794
+
+No match found for: chr1 at location:  91852938
+
+>chr12 at location:  20704393
+
+>chr12 at location:  20704411
+
+>chr10 at location:  52208171
+
+>chr11 at location:  85195066
+
+No match found for: chr21 at location:  9827347
+
+No match found for: chr21 at location:  9827200
+
+>chr4 at location:  1209779
+
+>chr12 at location:  20704395
+
+>chr12 at location:  20704360
+
+No match found for: chr16 at location:  33963321
+
+No match found for: chr21 at location:  9827250
+
+>chr8 at location:  38271435
+
+No match found for: chr21 at location:  9827434
+
+>chr12 at location:  20704378
+
+No match found for: chr21 at location:  9827034
+
+>chr12 at location:  20704371
+
+>chr6 at location:  106667972
+
+No match found for: chr2 at location:  56411288
+
+No match found for: chr21 at location:  9827386
+
+>chr12 at location:  20704361
+
+>chr11 at location:  85195186
+
+>chr17 at location:  33478132
+
+No match found for: chr21 at location:  9827306
+
+>chr11 at location:  85195011
+
+No match found for: chr21 at location:  9827297
+
+No match found for: chr21 at location:  9827285
+
+>chr12 at location:  20704383
+
+>chr17 at location:  33478131
+
+No match found for: chr21 at location:  9827436
+
+No match found for: chr5 at location:  71146770
+
+>chr8 at location:  70602351
+
+No match found for: chr21 at location:  9827140
+
+>chr12 at location:  20704404
+
+>chr10 at location:  81374781
+
+No match found for: chr1 at location:  91852944
+
+>chr11 at location:  85195045
+
+No match found for: chr21 at location:  9827401
+
+>chr17 at location:  33478293
+
+>chr19 at location:  39898612
+
+>chr12 at location:  20704415
+
+>chr12 at location:  20704387
+
+>chr11 at location:  85195049
+
+>chr8 at location:  38285437
+
+No match found for: chr21 at location:  9827455
+
+>chrX at location:  108885106
+
+No match found for: chr21 at location:  9827369
+
+>chr11 at location:  85195047
+
+>chr12 at location:  20704380
+
+>chr17 at location:  79533136
+
+No match found for: chr21 at location:  9827407
+
+No match found for: chr21 at location:  9827258
+
+No match found for: chrY at location:  10036399
+
+No match found for: chr1 at location:  108113522
+
+No match found for: chr1 at location:  91853066
+
+>chr12 at location:  20704388
+
+No match found for: chr21 at location:  9827350
+
+>chr12 at location:  20704395
+
+>chr8 at location:  38271674
+
+No match found for: chr19 at location:  24184956
+
+>chr12 at location:  20704385
+
+No match found for: chr21 at location:  9827234
+
+>chr8 at location:  38279391
+
+No match found for: chr21 at location:  9827413
+
+>chr4 at location:  1806189
+
+No match found for: chrY at location:  10036424
+
+>chr8 at location:  38282078
+
+No match found for: chr21 at location:  9827398
+
+>chr17 at location:  33478131
+
+>chr12 at location:  20704375
+
+No match found for: chr21 at location:  9827086
+
+>chr8 at location:  38279385
+
+>chr17 at location:  33478162
+
+>chr17 at location:  33478136
+
+No match found for: chr1 at location:  91853071
+
+>chr12 at location:  20704399
+
+No match found for: chr21 at location:  9827172
+
+>chr12 at location:  20704413
+
+>chr12 at location:  20704362
+
+>chr11 at location:  85195070
+
+No match found for: chr21 at location:  9827230
+
+No match found for: chr1 at location:  91852945
+
+>chr12 at location:  20704361
+
+>chr11 at location:  85195011
+
+No match found for: chr1 at location:  91853047
+
+>chr17 at location:  33478149
+
+>chr12 at location:  20704399
+
+>chr11 at location:  85195029
+
+>chr11 at location:  85195011
+
+>chr19 at location:  8503438
+
+No match found for: chr1 at location:  91852839
+
+No match found for: chr21 at location:  9827404
+
+No match found for: chr12 at location:  127650473
+
+>chr8 at location:  38271445
+
+No match found for: chr21 at location:  9827362
+
+>chr4 at location:  1208227
+
+No match found for: chr19 at location:  36066691
+
+>chr17 at location:  33478123
+
+>chr11 at location:  85195069
+
+>chr8 at location:  38282159
+
+>chr12 at location:  20704388
+
+No match found for: chr21 at location:  9827414
+
+>chr17 at location:  33478145
+
+No match found for: chr21 at location:  9827385
+
+No match found for: chr2 at location:  10507304
+
+No match found for: chr21 at location:  9827230
+
+>chr12 at location:  20704389
+
+>chr12 at location:  20704404
+
+No match found for: chr21 at location:  9827046
+
+No match found for: chrY at location:  10037825
+
+>chr12 at location:  20704358
+
+>chr12 at location:  20704386
+
+>chr15 at location:  45003743
+
+>chr10 at location:  123243211
+
+>chr12 at location:  20704398
+
+>chr12 at location:  6646297
+
+>chr17 at location:  76121909
+
+No match found for: chr21 at location:  9827437
+
+No match found for: chr1 at location:  91852955
+
+No match found for: chr21 at location:  9827465
+
+>chr15 at location:  45003757
+
+No match found for: chr21 at location:  9827399
+
+>chr8 at location:  38282159
+
+No match found for: chr21 at location:  9827432
+
+No match found for: chrX at location:  108297684
+
+>chr11 at location:  85195011
+
+No match found for: chr2 at location:  230045517
+
+>chr15 at location:  45003766
+
+No match found for: chr16 at location:  33963333
+
+>chr12 at location:  20704393
+
+No match found for: chr21 at location:  9827092
+
+>chr15 at location:  45003760
+
+>chr11 at location:  85195078
+
+No match found for: chr21 at location:  9827172
+
+>chr9 at location:  35657832
+
+>chr11 at location:  85195011
+
+No match found for: chr19 at location:  24184956
+
+No match found for: chr1 at location:  91853083
+
+>chr12 at location:  20704373
+
+>chr11 at location:  85195094
+
+No match found for: chr1 at location:  91852849
+
+>chr17 at location:  33478113
+
+>chr11 at location:  85195026
+
+>chr12 at location:  20704372
+
+>chr8 at location:  38275746
+
+No match found for: chr21 at location:  9827260
+
+No match found for: chr21 at location:  9827347
+
+No match found for: chr21 at location:  9827137
+
+No match found for: chrM at location:  783
+
+>chr17 at location:  33478136
+
+No match found for: chr21 at location:  9827394
+
+>chr17 at location:  33478132
+
+No match found for: chr1 at location:  203767550
+
+>chr12 at location:  20704377
+
+No match found for: chr21 at location:  9827301
+
+No match found for: chr21 at location:  9827434
+
+No match found for: chr21 at location:  9827438
+
+>chr12 at location:  20704398
+
+No match found for: chr21 at location:  9827399
+
+>chr4 at location:  1808556
+
+No match found for: chr21 at location:  9827249
+
+>chr3 at location:  160232903
+
+No match found for: chr21 at location:  9827230
+
+No match found for: chr2 at location:  230045488
+
+No match found for: chr21 at location:  9827419
+
+>chr12 at location:  20704418
+
+>chrX at location:  47442883
+
+No match found for: chrX at location:  108297771
+
+No match found for: chrX at location:  108297703
+
+No match found for: chr21 at location:  9827450
+
+No match found for: chr21 at location:  9827287
+
+No match found for: chr21 at location:  9827379
+
+>chr8 at location:  38285437
+
+No match found for: chr21 at location:  9827122
+
+>chr15 at location:  45003759
+
+No match found for: chr1 at location:  91852838
+
+No match found for: chr21 at location:  9827434
+
+>chr12 at location:  20704395
+
+>chr4 at location:  1209779
+
+>chr12 at location:  20704389
+
+No match found for: chr16 at location:  33963884
+
+No match found for: chr21 at location:  9827084
+
+No match found for: chr21 at location:  9827390
+
+No match found for: chr1 at location:  91852941
+
+No match found for: chr21 at location:  9827414
+
+No match found for: chr21 at location:  9827111
+
+>chr12 at location:  20704407
+
+No match found for: chr2 at location:  61575096
+
+No match found for: chr21 at location:  9827377
+
+>chr12 at location:  20704389
+
+No match found for: chr21 at location:  9827430
+
+>chr15 at location:  45003741
+
+>chr8 at location:  38285437
+
+>chr12 at location:  20704414
+
+No match found for: chr21 at location:  9827419
+
+No match found for: chr1 at location:  91852972
+
+No match found for: chr21 at location:  9827172
+
+>chr11 at location:  85195011
+
+No match found for: chr21 at location:  9827296
+
+>chr17 at location:  33478123
+
+>chr8 at location:  70602346
+
+No match found for: chrX at location:  108297791
+
+>chr12 at location:  20704389
+
+>chr4 at location:  1208245
+
+>chr12 at location:  20704385
+
+>chr17 at location:  33478116
+
+No match found for: chr21 at location:  9827391
+
+>chr17 at location:  33478124
+
+>chr16 at location:  72122927
+
+>chr11 at location:  85195026
+
+>chr3 at location:  194933360
+
+No match found for: chr2 at location:  230045488
+
+>chr19 at location:  47112920
+
+>chr17 at location:  33478294
+
+No match found for: chr2 at location:  230045488
+
+No match found for: chr19 at location:  24184956
+
+No match found for: chrY at location:  10036395
+
+No match found for: chr21 at location:  9827292
+
+No match found for: chr21 at location:  9827172
+
+>chr17 at location:  33478126
+
+>chr12 at location:  20704403
+
+No match found for: chr1 at location:  91852956
+
+>chr17 at location:  41151989
+
+>chr12 at location:  20704382
+
+>chr8 at location:  38271435
+
+No match found for: chr19 at location:  24184956
+
+>chr17 at location:  33478125
+
+No match found for: chr2 at location:  230045488
+
+>chr8 at location:  38275465
+
+No match found for: chr21 at location:  9827292
+
+No match found for: chr21 at location:  9827296
+
+No match found for: chr12 at location:  127650866
+
+No match found for: chr2 at location:  230045524
+
+>chr12 at location:  20704362
+
+>chr12 at location:  20704400
+
+No match found for: chr16 at location:  33963878
+
+>chr8 at location:  70602348
+
+No match found for: chr1 at location:  91852944
+
+>chr9 at location:  35657884
+
+>chr11 at location:  85195014
+
+>chr11 at location:  85195011
+
+>chr12 at location:  20704378
+
+>chr12 at location:  20704385
+
+>chr12 at location:  20704374
+
+>chr11 at location:  85195011
+
+>chr11 at location:  85195048
+
+No match found for: chr21 at location:  9827438
+
+No match found for: chr1 at location:  9787839
+
+>chr11 at location:  85195069
+
+>chr17 at location:  33478121
+
+>chr5 at location:  37540903
+
+>chr12 at location:  20704388
+
+>chr12 at location:  20704381
+
+>chr12 at location:  20704415
+
+>chr8 at location:  70602432
+
+>chr12 at location:  20704382
+
+>chr17 at location:  33478117
+
+>chr12 at location:  20704388
+
+No match found for: chr21 at location:  9827414
+
+No match found for: chr2 at location:  85889172
+
+No match found for: chr21 at location:  9827245
+
+>chr11 at location:  85195011
+
+No match found for: chr1 at location:  91852929
+
+No match found for: chrX at location:  108297801
+
+No match found for: chr21 at location:  9827423
+
+No match found for: chr1 at location:  91853086
+
+>chr12 at location:  20704381
+
+>chr12 at location:  20704412
+
+>chr12 at location:  20704388
+
+>chr11 at location:  85195011
+
+No match found for: chr21 at location:  9827371
+
+No match found for: chr21 at location:  9827470
+
+>chr12 at location:  20704389
+
+No match found for: chr21 at location:  9827261
+
+>chr11 at location:  85195013
+
+No match found for: chr1 at location:  29379728
+
+>chr17 at location:  33478130
+
+No match found for: chr1 at location:  91853065
+
+No match found for: chr21 at location:  9827371
+
+>chr11 at location:  85195011
+
+No match found for: chr21 at location:  9827444
+
+No match found for: chr21 at location:  9827370
+
+>chr12 at location:  20704389
+
+No match found for: chr21 at location:  9827357
+
+No match found for: chr21 at location:  9827396
+
+No match found for: chr21 at location:  9827366
+
+>chr12 at location:  20704388
+
+>chr12 at location:  20704377
+
+>chr12 at location:  20704390
+
+>chr8 at location:  70602349
+
+No match found for: chr21 at location:  9827447
+
+>chr8 at location:  38285451
+
+>chr12 at location:  20704389
+
+No match found for: chr21 at location:  9827292
+
+No match found for: chr21 at location:  9827401
+
+No match found for: chr21 at location:  9827391
+
+>chr12 at location:  20704391
+
+>chr8 at location:  70602348
+
+>chr11 at location:  85195053
+
+>chr15 at location:  45007621
+
+>chr12 at location:  20704402
+
+No match found for: chr16 at location:  33963321
+
+>chr12 at location:  20704375
+
+>chr11 at location:  85195052
+
+>chr12 at location:  20704372
+
+>chr12 at location:  53925736
+
+No match found for: chr21 at location:  9827457
+
+>chr17 at location:  33478141
+
+>chr15 at location:  45003768
+
+No match found for: chr21 at location:  9827172
+
+>chr12 at location:  20704403
+
+No match found for: chr1 at location:  91852955
+
+>chr12 at location:  20704400
+
+No match found for: chr1 at location:  91853081
+
+>chr11 at location:  131617224
+
+>chr12 at location:  20704378
+
+>chr12 at location:  20704388
+
+No match found for: chr16 at location:  33963317
+
+>chr12 at location:  20704387
+
+No match found for: chr21 at location:  9827301
+
+No match found for: chr21 at location:  9827197
+
+>chr8 at location:  38275746
+
+>chr11 at location:  57080282
+
+No match found for: chr21 at location:  9827423
+
+>chr15 at location:  45007621
+
+No match found for: chr21 at location:  9827387
+
+No match found for: chr21 at location:  9827295
+
+>chr17 at location:  33478138
+
+No match found for: chrX at location:  108297733
+
+>chr12 at location:  20704379
+
+No match found for: chr21 at location:  9827310
+
+>chr12 at location:  20704389
+
+No match found for: chr21 at location:  9827399
+
+No match found for: chr16 at location:  33963881
+
+No match found for: chr21 at location:  9827364
+
+No match found for: chr16 at location:  33963884
+
+>chr12 at location:  20704391
+
+>chr8 at location:  38277212
+
+No match found for: chr21 at location:  9827433
+
+>chr17 at location:  33478224
+
+No match found for: chr21 at location:  9827382
+
+No match found for: chr21 at location:  9827379
+
+No match found for: chr1 at location:  91852934
+
+No match found for: chrX at location:  108297721
+
+No match found for: chr21 at location:  9827397
+
+>chr12 at location:  20704387
+
+No match found for: chr21 at location:  9827423
+
+No match found for: chr21 at location:  9827350
+
+>chr11 at location:  85195075
+
+>chr11 at location:  85195018
+
+No match found for: chr21 at location:  9827205
+
+No match found for: chr5 at location:  71146874
+
+>chr12 at location:  20704422
+
+>chr11 at location:  85195067
+
+>chr12 at location:  20704424
+
+No match found for: chr21 at location:  9827086
+
+>chr17 at location:  33478116
+
+No match found for: chr1 at location:  91852911
+
+>chr11 at location:  85195078
+
+No match found for: chr2 at location:  230045523
+
+>chr12 at location:  20704377
+
+>chr12 at location:  20704395
+
+No match found for: chr21 at location:  9827414
+
+No match found for: chr8 at location:  124780816
+
+>chr11 at location:  85195011
+
+No match found for: chr2 at location:  131841753
+
+>chr11 at location:  85195011
+
+No match found for: chr21 at location:  9827391
+
+No match found for: chrX at location:  108297755
+
+No match found for: chr2 at location:  230045519
+
+>chr11 at location:  6632439
+
+>chr15 at location:  45003753
+
+>chr17 at location:  6919157
+
+>chr9 at location:  139566802
+
+No match found for: chrX at location:  108297646
+
+>chr8 at location:  38279315
+
+No match found for: chr1 at location:  91852783
+
+No match found for: chr2 at location:  230045533
+
+No match found for: chr1 at location:  91852941
+
+>chr3 at location:  4460359
+
+>chr12 at location:  20704402
+
+No match found for: chr2 at location:  230045492
+
+>chr3 at location:  113099330
+
+No match found for: chr16 at location:  33963316
+
+>chr12 at location:  20704388
+
+No match found for: chr21 at location:  9827232
+
+>chr12 at location:  20704370
+
+>chr12 at location:  20704396
+
+No match found for: chrY at location:  10037805
+
+>chr12 at location:  20704383
+
+>chr17 at location:  33478121
+
+No match found for: chr21 at location:  9827361
+
+No match found for: chr5 at location:  71146855
+
+>chr15 at location:  45003767
+
+No match found for: chr21 at location:  9827097
+
+No match found for: chr21 at location:  9827368
+
+>chr11 at location:  85195010
+
+No match found for: chr21 at location:  9827090
+
+>chr12 at location:  20704372
+
+No match found for: chr21 at location:  9827369
+
+>chr17 at location:  33478142
+
+>chr12 at location:  20704357
+
+>chr17 at location:  33478140
+
+No match found for: chrX at location:  108297715
+
+No match found for: chrX at location:  108297796
+
+No match found for: chr21 at location:  9827175
+
+>chr17 at location:  33478139
+
+>chr12 at location:  20704422
+
+No match found for: chr21 at location:  9827080
+
+No match found for: chr21 at location:  9827242
+
+No match found for: chr1 at location:  91852800
+
+No match found for: chr21 at location:  9827350
+
+No match found for: chr21 at location:  9827376
+
+No match found for: chr21 at location:  9827387
+
+>chr12 at location:  20704406
+
+>chr17 at location:  33478123
+
+No match found for: chr21 at location:  9827240
+
+>chr12 at location:  20704404
+
+>chr15 at location:  45003752
+
+No match found for: chr21 at location:  9827370
+
+No match found for: chr21 at location:  9827381
+
+No match found for: chr1 at location:  91852955
+
+No match found for: chr1 at location:  91852948
+
+No match found for: chr21 at location:  9827433
+
+>chr8 at location:  38271672
+
+No match found for: chr21 at location:  9827376
+
+No match found for: chr21 at location:  9827286
+
+No match found for: chr21 at location:  9827045
+
+No match found for: chr1 at location:  91852934
+
+>chr12 at location:  20704389
+
+>chr12 at location:  20704388
+
+>chr12 at location:  20704387
+
+>chr4 at location:  1209779
+
+No match found for: chr21 at location:  9827043
+
+>chr15 at location:  45007621
+
+>chr6 at location:  30692035
+
+No match found for: chrY at location:  10037840
+
+No match found for: chr2 at location:  230045515
+
+>chr12 at location:  20704402
+
+No match found for: chr5 at location:  71146742
+
+No match found for: chr21 at location:  9827368
+
+>chr12 at location:  20704373
+
+No match found for: chr21 at location:  9827472
+
+No match found for: chrX at location:  46299776
+
+>chr8 at location:  38275452
+
+>chr12 at location:  20704373
+
+No match found for: chr21 at location:  9827455
+
+No match found for: chr21 at location:  9827403
+
+No match found for: chrM at location:  2116
+
+No match found for: chr1 at location:  91852935
+
+>chr11 at location:  85195086
+
+No match found for: chr21 at location:  9827441
+
+No match found for: chr21 at location:  9827232
+
+No match found for: chr21 at location:  9827131
+
+No match found for: chr21 at location:  9827232
+
+>chr12 at location:  20704397
+
+>chr12 at location:  20704377
+
+No match found for: chrX at location:  108297797
+
+No match found for: chr21 at location:  9827365
+
+>chr12 at location:  20704365
+
+>chr17 at location:  33478136
+
+No match found for: chr1 at location:  91852789
+
+No match found for: chr21 at location:  9827271
+
+No match found for: chr21 at location:  9827370
+
+>chr12 at location:  20704378
+
+No match found for: chr21 at location:  9827370
+
+No match found for: chr21 at location:  9827283
+
+>chr15 at location:  45003747
+
+No match found for: chr2 at location:  230045525
+
+>chr12 at location:  20704389
+
+>chr12 at location:  20704372
+
+>chr15 at location:  45003762
+
+No match found for: chr2 at location:  230045497
+
+No match found for: chr21 at location:  9827385
+
+>chr17 at location:  33478140
+
+>chr12 at location:  20704389
+
+No match found for: chr1 at location:  23724286
+
+No match found for: chr21 at location:  9827094
+
+>chr15 at location:  45007621
+
+>chr11 at location:  85195060
+
+No match found for: chr21 at location:  9827434
+
+No match found for: chr1 at location:  91853042
+
+No match found for: chr2 at location:  133012931
+
+No match found for: chr21 at location:  9827092
+
+>chr17 at location:  33478163
+
+>chr12 at location:  20704389
+
+No match found for: chr2 at location:  230045551
+
+>chr12 at location:  20704397
+
+No match found for: chr21 at location:  9827256
+
+No match found for: chr21 at location:  9827444
+
+No match found for: chr21 at location:  9827295
+
+>chr12 at location:  20704387
+
+>chr8 at location:  38271226
+
+No match found for: chr2 at location:  230045533
+
+No match found for: chr21 at location:  9827370
+
+>chr12 at location:  20704397
+
+>chr12 at location:  20704374
+
+No match found for: chr2 at location:  133012274
+
+No match found for: chr1 at location:  44379820
+
+No match found for: chr21 at location:  9827302
+
+>chr12 at location:  20704393
+
+>chr11 at location:  85195078
+
+No match found for: chr2 at location:  230045488
+
+>chr12 at location:  20704418
+
+>chr11 at location:  85195011
+
+No match found for: chr21 at location:  9827407
+
+>chr4 at location:  1209779
+
+>chr11 at location:  85195049
+
+No match found for: chr21 at location:  9827399
+
+No match found for: chr21 at location:  9827293
+
+>chr8 at location:  38275452
+
+No match found for: chr2 at location:  230045533
+
+>chr11 at location:  85195130
+
+No match found for: chr21 at location:  9827386
+
+No match found for: chr21 at location:  9827284
+
+No match found for: chr16 at location:  33963333
+
+No match found for: chr2 at location:  133012821
+
+>chr12 at location:  20704395
+
+No match found for: chr21 at location:  9827392
+
+>chr17 at location:  33478124
+
+No match found for: chr21 at location:  9827391
+
+No match found for: chr21 at location:  9827279
+
+No match found for: chr1 at location:  91852934
+
+No match found for: chr21 at location:  9827287
+
+>chr12 at location:  20704399
+
+No match found for: chr1 at location:  91852952
+
+No match found for: chr21 at location:  9827399
+
+No match found for: chr21 at location:  9827425
+
+No match found for: chr16 at location:  33963881
+
+No match found for: chr5 at location:  71146852
+
+>chr11 at location:  85195011
+
+>chr12 at location:  20704388
+
+No match found for: chr1 at location:  91852944
+
+No match found for: chr21 at location:  9827468
+
+No match found for: chr1 at location:  91853035
+
+>chr12 at location:  20704389
+
+>chr11 at location:  85195053
+
+>chr12 at location:  20704389
+
+>chr17 at location:  33478139
+
+No match found for: chr12 at location:  127650871
+
+No match found for: chr21 at location:  9827437
+
+>chr11 at location:  85195011
+
+No match found for: chr21 at location:  9827391
+
+>chr12 at location:  20704397
+
+>chr12 at location:  20704370
+
+>chr11 at location:  85195011
+
+>chr12 at location:  20704373
+
+No match found for: chrX at location:  108297783
+
+>chr15 at location:  45003767
+
+No match found for: chr12 at location:  127650607
+
+>chr11 at location:  85195069
+
+No match found for: chr21 at location:  9827288
+
+>chr11 at location:  85195011
+
+>chr11 at location:  2411641
+
+No match found for: chr21 at location:  9827350
+
+>chr12 at location:  20704385
+
+>chr11 at location:  85195011
+
+>chr16 at location:  2815080
+
+>chr12 at location:  20704399
+
+>chr11 at location:  85195011
+
+>chr15 at location:  45007621
+
+>chr12 at location:  20704388
+
+No match found for: chr16 at location:  33963881
+
+No match found for: chr21 at location:  9827392
+
+>chr17 at location:  33478113
+
+No match found for: chr21 at location:  9827401
+
+>chr15 at location:  45003756
+
+>chr12 at location:  20704389
+
+>chr11 at location:  85195081
+
+>chr12 at location:  20704357
+
+No match found for: chr1 at location:  91852817
+
+No match found for: chr1 at location:  91852809
+
+>chr21 at location:  47407521
+
+>chr16 at location:  571540
+
+>chr8 at location:  70602349
+
+>chr12 at location:  20704402
+
+No match found for: chrY at location:  10037839
+
+No match found for: chr21 at location:  9827118
+
+>chr11 at location:  85195051
+
+>chr12 at location:  20704387
+
+No match found for: chr21 at location:  9827381
+
+No match found for: chr21 at location:  9827370
+
+>chr12 at location:  20704402
+
+No match found for: chr1 at location:  91852913
+
+No match found for: chr21 at location:  9827096
+
+No match found for: chrY at location:  10035893
+
+No match found for: chr12 at location:  127650870
+
+No match found for: chr21 at location:  9827371
+
+No match found for: chr5 at location:  71146851
+
+>chr12 at location:  20704389
+
+>chr8 at location:  38315009
+
+>chr17 at location:  33478113
+
+>chr12 at location:  20704372
+
+>chr11 at location:  85195072
+
+No match found for: chr21 at location:  9827081
+
+>chr17 at location:  33478123
+
+>chr12 at location:  20704389
+
+>chr17 at location:  33478142
+
+No match found for: chr2 at location:  133012820
+
+No match found for: chr21 at location:  9827243
+
+>chr8 at location:  38271667
+
+No match found for: chr2 at location:  133012823
+
+>chr8 at location:  38271441
+
+>chr12 at location:  20704386
+
+>chr11 at location:  85195059
+
+No match found for: chr16 at location:  33963316
+
+No match found for: chr21 at location:  9827351
+
+No match found for: chr2 at location:  230045521
+
+>chr12 at location:  20704408
+
+>chr12 at location:  20704377
+
+No match found for: chr21 at location:  9827409
+
+>chrX at location:  77369298
+
+No match found for: chr21 at location:  9827380
+
+>chr8 at location:  38275840
+
+>chr11 at location:  85195070
+
+No match found for: chr2 at location:  230045490
+
+No match found for: chr21 at location:  9827377
+
+>chr15 at location:  45003767
+
+No match found for: chr5 at location:  71146850
+
+No match found for: chr21 at location:  9827377
+
+No match found for: chr21 at location:  9827390
+
+>chr15 at location:  45003761
+
+No match found for: chr21 at location:  9827087
+
+No match found for: chr21 at location:  9827347
+
+>chr11 at location:  85195011
+
+>chr12 at location:  20704404
+
+>chr12 at location:  20704357
+
+>chr12 at location:  20704364
+
+>chr8 at location:  70602358
+
+>chr11 at location:  85195081
+
+No match found for: chr21 at location:  9827391
+
+>chr17 at location:  33478123
+
+No match found for: chr2 at location:  230045524
+
+No match found for: chr2 at location:  133012719
+
+No match found for: chrX at location:  108297714
+
+>chr11 at location:  85195065
+
+No match found for: chr2 at location:  133012822
+
+No match found for: chr16 at location:  33963320
+
+No match found for: chr21 at location:  9827220
+
+>chr12 at location:  20704375
+
+>chr12 at location:  20704374
+
+No match found for: chr21 at location:  9827248
+
+No match found for: chr21 at location:  9827414
+
+>chr15 at location:  45007621
+
+No match found for: chr21 at location:  9827414
+
+No match found for: chr2 at location:  133012823
+
+No match found for: chr2 at location:  133012816
+
+>chr11 at location:  85195069
+
+No match found for: chr21 at location:  9827414
+
+>chr17 at location:  33478112
+
+>chr12 at location:  20704404
+
+No match found for: chr21 at location:  9827390
+
+>chr11 at location:  85195076
+
+>chr12 at location:  20704386
+
+No match found for: chr1 at location:  91852938
+
+>chr5 at location:  39106168
+
+>chr17 at location:  33478132
+
+No match found for: chr1 at location:  91852908
+
+No match found for: chr21 at location:  9827370
+
+No match found for: chr21 at location:  9827376
+
+No match found for: chr21 at location:  9827439
+
+>chr11 at location:  85195078
+
+No match found for: chr21 at location:  9827378
+
+No match found for: chr21 at location:  9827468
+
+No match found for: chr1 at location:  36106983
+
+>chr12 at location:  20704364
+
+>chr12 at location:  20704389
+
+No match found for: chr21 at location:  9827444
+
+>chr12 at location:  20704404
+
+>chr11 at location:  85195064
+
+No match found for: chr21 at location:  9827412
+
+No match found for: chr21 at location:  9827460
+
+>chr17 at location:  33478151
+
+No match found for: chr21 at location:  9827368
+
+No match found for: chr1 at location:  91852934
+
+No match found for: chr21 at location:  9827349
+
+>chr8 at location:  38282159
+
+>chr12 at location:  20704387
+
+>chr17 at location:  33478135
+
+No match found for: chr21 at location:  9827230
+
+>chr17 at location:  33478132
+
+No match found for: chr21 at location:  9827359
+
+>chr12 at location:  20704372
+
+No match found for: chr2 at location:  133012820
+
+No match found for: chr21 at location:  9827418
+
+No match found for: chr21 at location:  9827350
+
+No match found for: chr21 at location:  9827438
+
+>chr4 at location:  1806557
+
+>chr17 at location:  33478132
+
+>chr12 at location:  20704378
+
+No match found for: chr21 at location:  9827243
+
+No match found for: chr9 at location:  79186680
+
+No match found for: chr21 at location:  9827419
+
+No match found for: chr21 at location:  9827085
+
+>chr12 at location:  20704391
+
+No match found for: chr21 at location:  9827376
+
+>chr9 at location:  112898405
+
+>chr12 at location:  20704397
+
+>chr11 at location:  85195011
+
+No match found for: chr21 at location:  9827364
+
+No match found for: chr1 at location:  91852948
+
+No match found for: chr21 at location:  9827374
+
+No match found for: chr2 at location:  133012815
+
+>chr20 at location:  23027872
+
+No match found for: chr1 at location:  91852944
+
+No match found for: chrM at location:  1816
+
+>chr15 at location:  45003755
+
+>chr12 at location:  20704386
+
+>chr11 at location:  85195065
+
+>chr11 at location:  85195011
+
+No match found for: chr21 at location:  9827222
+
+No match found for: chr21 at location:  9827440
+
+>chr8 at location:  70602352
+
+>chr12 at location:  20704405
+
+No match found for: chr21 at location:  9827387
+
+>chr12 at location:  20704397
+
+No match found for: chr21 at location:  9827391
+
+No match found for: chr21 at location:  9827452
+
+No match found for: chrX at location:  108297760
+
+>chr17 at location:  33478147
+
+No match found for: chr21 at location:  9827403
+
+No match found for: chr21 at location:  9827350
+
+>chr17 at location:  33478163
+
+>chr12 at location:  20704381
+
+No match found for: chr12 at location:  127650877
+
+No match found for: chr1 at location:  91852947
+
+>chr12 at location:  20704372
+
+>chr20 at location:  35177715
+
+No match found for: chr21 at location:  9827094
+
+>chr4 at location:  1208227
+
+No match found for: chr2 at location:  172551268
+
+No match found for: chr16 at location:  33963317
+
+No match found for: chr2 at location:  133012829
+
+>chr17 at location:  33478129
+
+>chr12 at location:  20704380
+
+No match found for: chrX at location:  108297729
+
+No match found for: chr12 at location:  127650607
+
+>chr12 at location:  20704390
+
+No match found for: chr5 at location:  71146843
+
+>chr12 at location:  20704388
+
+>chr12 at location:  20704383
+
+>chr12 at location:  20704380
+
+No match found for: chr21 at location:  9827413
+
+No match found for: chr21 at location:  9827396
+
+>chr12 at location:  20704393
+
+>chr8 at location:  38275465
+
+>chr12 at location:  20704400
+
+>chr8 at location:  70602344
+
+No match found for: chr21 at location:  9827409
+
+No match found for: chr21 at location:  9827391
+
+>chr12 at location:  20704389
+
+No match found for: chr2 at location:  133012818
+
+No match found for: chr21 at location:  9827388
+
+No match found for: chr21 at location:  9827414
+
+No match found for: chr21 at location:  9827241
+
+No match found for: chr21 at location:  9827402
+
+No match found for: chr21 at location:  9827368
+
+No match found for: chr21 at location:  9827406
+
+>chr15 at location:  45007621
+
+No match found for: chr2 at location:  133012820
+
+>chr12 at location:  20704363
+
+>chr11 at location:  85195011
+
+>chr17 at location:  33478112
+
+>chr8 at location:  70602348
+
+No match found for: chr21 at location:  9827137
+
+Total matches found: 928	 Total NOT found:  879
+=====================================================================
+
+Finished Processing Files at:  Feb 16, 2015 11:08:30 AM
+
+=====================================================================
+
